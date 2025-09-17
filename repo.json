@@ -8,7 +8,7 @@
       "name": "AkwamProvider",
       "description": "Provider for Akwam website",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/YourUsername/CloudstreamExtensionsArabic/main/arabic-release.jar",
+      "url": "https://raw.githubusercontent.com/mohamed-elmasry17/test2/arabic-release.jar",
       "cs3": "arabic-release.cs3"  // اسم الملف بامتداد cs3
     }
   ]

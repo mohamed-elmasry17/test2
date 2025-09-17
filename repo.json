@@ -1,0 +1,15 @@
+{
+  "name": "Arabic Providers Repository",
+  "icon": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/main/icon.png",  // اختياري، ضع رابط أيقونة إذا عندك
+  "code": "ImZaw/cloudstream-extensions-arabic",  // اسم مستودعك على GitHub
+  "version": 1,
+  "plugins": [
+    {
+      "name": "AkwamProvider",
+      "description": "Provider for Akwam website",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/YourUsername/CloudstreamExtensionsArabic/main/arabic-release.jar",
+      "cs3": "arabic-release.cs3"  // اسم الملف بامتداد cs3
+    }
+  ]
+}

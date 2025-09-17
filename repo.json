@@ -1,7 +1,7 @@
 {
   "name": "Arabic Providers Repository",
   "icon": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/main/icon.png",  // اختياري، ضع رابط أيقونة إذا عندك
-  "code": "ImZaw/cloudstream-extensions-arabic",  // اسم مستودعك على GitHub
+  "code": "mohamed-elmasry17/test2",  // اسم مستودعك على GitHub
   "version": 1,
   "plugins": [
     {
